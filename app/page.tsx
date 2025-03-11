@@ -1,4 +1,4 @@
-import Image from "next/image";
+// import Image from "next/image";
 
 export default function Home() {
   return (
@@ -224,7 +224,7 @@ export default function Home() {
               </div>
               <h2 className="text-4xl font-bold mb-4">Your Trusted Technology Partner</h2>
               <p className="text-gray-600 dark:text-gray-300">
-                With over a decade of experience, we've helped businesses of all sizes transform their digital presence and operations. Our team of experts combines technical expertise with business acumen to deliver solutions that drive real results.
+                With over a decade of experience, we&apos;ve helped businesses of all sizes transform their digital presence and operations. Our team of experts combines technical expertise with business acumen to deliver solutions that drive real results.
               </p>
               <div className="space-y-4 pt-4">
                 {[
